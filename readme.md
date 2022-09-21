@@ -15,6 +15,7 @@
     4. **[git push](./push.md)**
     5. **[git commit](./commit.md)**
 3. Полезные [ссылки](./links.md)
+4. [Best Practies](./best_practies.md)
 
 ---
 
